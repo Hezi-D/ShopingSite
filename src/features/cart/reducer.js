@@ -28,6 +28,10 @@ const removeFromCart = (cart, item) => {
       ];
 };
 
+const removeAllFromCart = (cart, item) => {
+  return [...cartWithoutItem(cart, item)];
+};
+
 const cartReducer = (state = [], action) => {
   switch (action.type) {
     case "ADD":
@@ -35,6 +39,9 @@ const cartReducer = (state = [], action) => {
 
     case "REMOVE":
       return removeFromCart(state, action.payload);
+
+    case "REMOVE_ALL":
+      return removeAllFromCart(state, action.payload);
 
     default:
       return state;
