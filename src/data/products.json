@@ -3,34 +3,34 @@
     {
       "id": 1,
       "name": "חלב תנובה",
-      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "description": "",
       "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
       "image": "Milk.jpg",
       "age": ["0", "+"],
-      "price": 19.99
+      "price": 5.9
     },
     {
       "id": 2,
       "name": "חלב לקפה",
-      "description": "Buzz Lightyear is a favorite of youngsters. He has a ray-gun, wings that can be retracted or extended on the push of a button, and a grin that could make any alien get a chill up their spine - should they have one.",
+      "description": " ",
       "keywords": [
         "action figure",
         "toy story",
         "posable",
         "requires batteries"
       ],
-      "image": "2-buzz.jpg",
+      "image": "Milk for coffee.jpg",
       "age": ["3", "10"],
-      "price": 38.5
+      "price": 7.9
     },
     {
       "id": 3,
-      "name": "Minion Dave",
-      "description": "Dave is a two-eyed and medium-sized minion with nice combed hair. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "name": "לחם פרוס",
+      "description": "",
       "keywords": ["stuffed", "plush", "minions", "Despicable Me"],
-      "image": "3-minion-dave.jpg",
+      "image": "Bread.jpg",
       "age": ["0", "10"],
-      "price": 12.99
+      "price": 7.1
     },
     {
       "id": 4,
