@@ -13,6 +13,7 @@ function ProductListing(props) {
           cartItem={
             props.cart.filter(cartItem => cartItem.id === product.id)[0]
           }
+          removeFromCart={props.removeFromCart}
         />
       ))}
     </div>
